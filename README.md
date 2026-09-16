@@ -1,15 +1,4 @@
-### 👋 Hi there!
-I'm Joann (or just Jo).
-
-🚀 Currently: Controls Lead @TitanRover, Research Assistant @CICPCUBED, AI Studio Fellow @BTT, AI/Algorithms Board @ACM, Independent Researcher
-
-🌟 Previously: Web Dev Intern @NASA JPL
-
-🔥 Building: SELinux Analysis Automation, Titan Rover Controls System
-
-You're welcome to explore my repositories and don't hesitate to reach out for collaborations or discussions!
-
-Feel free to take a look at my [resume](https://drive.google.com/file/d/1RPrXYEZ9TexngEaTDSdfE8aaQiLTaHkR/view?usp=sharing) and find me here:
+Find me here:
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joann-s-5a585a1ba/) 
